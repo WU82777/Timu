@@ -165,3 +165,23 @@ A=A+M
 @-17
 
 D=D*2
+
+
+
+
+
+Question 111 pts
+Category: Assembler
+
+How does a programmer finish a program in Hack Assembler?
+
+Group of answer choices
+
+By specifying a label followed by an instruction that unconditionally jumps to itself.
+
+By setting the address of the A register to zero.
+
+By including an instruction that is all zero bits at the end of the code and then jumping conditionally to that instruction.
+
+By using a halt instruction
+
