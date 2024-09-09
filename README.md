@@ -104,6 +104,9 @@ Group of answer choices
 
 ?,0,1,0,1,0,0,1
 
+
+answer: ?,0,0,1,0,1,0,0.
+
 Question 71 pts
 Category: Circuit HDL
 
