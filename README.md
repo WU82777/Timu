@@ -108,8 +108,7 @@ Select the lines of HDL code shown below that will implement a 1-bit register th
 ![image](https://github.com/user-attachments/assets/56f7d840-d9bb-4c4f-a354-a33383a5b492)
 
 
-answer:
-Mux(a=out,b=in,sel=load,out=todff);
+
 
 Chip Bit
 {
@@ -132,6 +131,10 @@ DFF(in=out,out=a,out=out) ;
 DFF(in=todff,out=tomux,out=out) ;
 
 Mux(a=out,b=in,sel=load,out=todff) ;
+
+
+answer:
+Mux(a=out,b=in,sel=load,out=todff);
 
 Question 81 pts
 Category: CPU Wiring
