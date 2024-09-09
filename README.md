@@ -273,3 +273,52 @@ A
 JGT	
 JMP	
 
+
+
+Question 161 pts
+Category: VM to Assembler push constant 0
+
+Which of the following fragments of Hack assembly language would implement the following virtual machine command? If there is more than one correct answer, select all of them.
+
+push constant 0
+Group of answer choices
+
+A=0
+M=M+1
+AD=M-1
+M=0
+
+@SP
+A=M
+M=0
+@SP
+M=M+1
+
+@0
+D=A
+@SP
+A=M
+M=D
+@SP
+AM=M+1
+
+@0
+D=A
+@SP
+M=M+1
+A=M
+M=D
+@SP
+
+@SP
+M=M+1
+A=M
+M=0
+@SP
+
+@0
+D=A
+@SP
+M=D
+@SP
+M=M+1
