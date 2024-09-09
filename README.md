@@ -199,3 +199,29 @@ By including an instruction that is all zero bits at the end of the code and the
 
 By using a halt instruction
 
+
+
+
+Question 121 pts
+Category: Assembler
+
+Briefly describe what the following Hack assembler code does
+
+        @KBD
+        D=M
+        @48
+        D=D-A
+        @num
+        M=D
+(END)
+        @END
+        0;JMP
+Group of answer choices
+
+It reads the keboard register at the time of the @kbd command  and exits if the scan code is more than 48.
+
+Nothing, there is a syntax error and the code doesn't assemble.
+
+It reads the keyboard code at the time of the first D=M command and subtracts 48 from it and puts the result in "num"
+
+Nothing, there is no way that this code is able to read the keyboard unless the user is able to press the number '48' which doesn't exist on the keyboard. If it could work it would put the value -48 in "num".
