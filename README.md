@@ -65,13 +65,22 @@ if x == 57 and y == -32768 then ng =
 
 answer:
 x1 = x
+
 x2 = !x
+
 y1 = y
+
 y2 = !y
+
 fout = x2 & y2
+
 out = !fout
+
 zr = false
+
 ng = true
+
+
 
 
 
