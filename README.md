@@ -389,15 +389,11 @@ Which of the following are segments in the Hack Virtual Machine?
 
 Group of answer choices
 
+answer
+
 variable
 
 constant
 
 field
 
-
-JIU WU FEN ZHONG LE  XIAN XIE XUANZETI
-
-argument
-
-static
