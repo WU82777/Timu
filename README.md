@@ -37,6 +37,8 @@ Category: Unsigned Minimums
 
 What is the decimal value of the smallest number that can be represented by an 8-bit unsigned binary number? Your answer must start with an initial sign, + or -. The rest of your answer must only contain decimal digits.
 
+answer: +0
+
 Question 51 pts
 Category: ALU
 
