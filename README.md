@@ -319,6 +319,8 @@ Which of the following fragments of Hack assembly language would implement the f
 push constant 2
 Group of answer choices
 
+
+Answer
 @2
 D=A
 @SP
@@ -332,12 +334,7 @@ A=M
 M=2
 @SP
 
-@0
-D=A
-@SP
-M=D
-@SP
-M=M+1
+
 
 @2
 D=A
@@ -349,13 +346,7 @@ AM=M+1
  
 
 
-@SP
-A=M
-M=1
-M=M+1
-@SP
-M=M+1
- 
+
 
 
 A=0
