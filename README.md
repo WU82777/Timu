@@ -377,6 +377,29 @@ M=M+1
 
 
 A=0
+
+
+
+Question 221 pts
+Category: VM
+
+How many memory segments does the Hack Virtual Machine store in the data memory?
+
+Group of answer choices
+
+2
+
+10
+
+5
+
+9
+
+7
+
+11
+
+8
 M=M+1
 AD=M-1
 M=1
