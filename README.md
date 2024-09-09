@@ -146,3 +146,22 @@ The most significant bit of the result produced by the ALU. If the "not" of this
 
 
 
+
+Question 101 pts
+Category: Assembly Equivalence
+
+The following operations are not legal Hack Assembly Language. Which of these operations could be implemented by executing two consecutive Hack Assembly Language instructions? No other registers or memory locations can be modified.
+
+Group of answer choices
+
+M=-2
+
+AD=D*2
+
+@-5
+
+A=A+M
+
+@-17
+
+D=D*2
