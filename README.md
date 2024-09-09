@@ -63,6 +63,18 @@ What values would be output on the zr and ng wires if the values of x and y are 
 if x == 2 and y == 4 then zr = 
 if x == 57 and y == -32768 then ng = 
 
+answer:
+x1 = x
+x2 = !x
+y1 = y
+y2 = !y
+fout = x2 & y2
+out = !fout
+zr = false
+ng = true
+
+
+
 
 Question 61 pts
 Category: Sequential DFF
