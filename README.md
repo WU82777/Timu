@@ -21,6 +21,7 @@ Category: Most Negative 8-bit
 What is the decimal value of the most negative number that can be represented by an 8-bit two's complement binary number? Your answer must start with a - sign. The rest of your answer must only contain decimal digits.
 
 answer :
+要你学号 must start with a - sign
 -128
 
 
