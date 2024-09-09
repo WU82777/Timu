@@ -124,3 +124,25 @@ These wires are c1 through to c6 wires of the instruction when we have a C-instr
 The wires are the right most bits of the C-instruction (when we have an A instruction we either ignore the output of the ALU or "and" the input of these wires with one of the bits indicating that this is a C instruction) these bits determine if or how we jump. These bits feed into the logic of the ALU and make it produce the relevant bits for updating the PC to determine what instructions to execute next.
 
 These wires are the rightmost 15 wires of an A-instruction and they are used to put values into the A-register from the ALU. If we have a C-instruction, the circuit is wired such that these wires are ignored.
+
+
+
+
+
+Question 91 pts
+Category: CPU Wiring
+
+Look at the following (incomplete) diagram of the Hack CPU. Look at the wire pointed to by the large red arrow.
+
+Where does the signal on this wire come from and what action does this signal trigger?
+![image](https://github.com/user-attachments/assets/44933d78-84c1-478a-90d0-412dfada4060)
+This wire is the "not" of the left-most bit of the instruction (i15) because the ALU Output is connected to input a of the multiplexor. The signal allows an A-instruction to be routed to the A-register where it can be loaded.
+
+The "a" bit of the C-instruction (the fourth bit from the left). This will trigger whether the value routed to A will come from the memory or the D-register.
+
+This is a "not" of the leftmost destination bit of the C-instruction (d1). This allows the A-register to be loaded with the output of the ALU.
+
+The most significant bit of the result produced by the ALU. If the "not" of this bit is one then the Mux will select to load the output of the memory operation in to the A-register. Otherwise it will transmit the value of the program counter to the A register so the next instruction can be loaded.
+
+
+
