@@ -29,6 +29,8 @@ Category: 4-bit Twos Complement -5 + -5
 
 Assuming that all numbers are represented in 4-bit two's complement binary, what is the decimal value of the result of adding -5 and -5? Your answer must start with an initial sign, + or -. The rest of your answer must only contain decimal digits.
 
+answer: -10
+
 Question 41 pts
 Category: Unsigned Minimums
 
