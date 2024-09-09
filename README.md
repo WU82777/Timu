@@ -60,3 +60,23 @@ What values would be output on the zr and ng wires if the values of x and y are 
 
 if x == 2 and y == 4 then zr = 
 if x == 57 and y == -32768 then ng = 
+
+
+Question 61 pts
+Category: Sequential DFF
+
+Imagine that you had a data flip-flop DDF and, during successive clock cycles the signal on its input is:
+
+0,0,1,0,1,0,0,1
+
+What is the output of the DFF on these same clock cycles?
+
+Group of answer choices
+
+?,0,0,1,0,1,0,0
+
+0,1,0,1,0,0,1,0
+
+0,0,1,0,1,0,0,0
+
+?,0,1,0,1,0,0,1
