@@ -157,12 +157,8 @@ Look at the following (incomplete) diagram of the Hack CPU. Look at the wire poi
 
 Where does the signal on this wire come from and what action does this signal trigger?
 ![image](https://github.com/user-attachments/assets/44933d78-84c1-478a-90d0-412dfada4060)
-This wire is the "not" of the left-most bit of the instruction (i15) because the ALU Output is connected to input a of the multiplexor. The signal allows an A-instruction to be routed to the A-register where it can be loaded.
 
-The "a" bit of the C-instruction (the fourth bit from the left). This will trigger whether the value routed to A will come from the memory or the D-register.
-
-This is a "not" of the leftmost destination bit of the C-instruction (d1). This allows the A-register to be loaded with the output of the ALU.
-
+Answer：D
 The most significant bit of the result produced by the ALU. If the "not" of this bit is one then the Mux will select to load the output of the memory operation in to the A-register. Otherwise it will transmit the value of the program counter to the A register so the next instruction can be loaded.
 
 
