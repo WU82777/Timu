@@ -133,8 +133,16 @@ DFF(in=todff,out=tomux,out=out) ;
 Mux(a=out,b=in,sel=load,out=todff) ;
 
 
+
+
 answer:
 Mux(a=out,b=in,sel=load,out=todff);
+
+
+
+
+
+
 
 Question 81 pts
 Category: CPU Wiring
@@ -183,7 +191,7 @@ A=A+M
 
 D=D*2
 
-
+Answer： D=D*2
 
 
 
