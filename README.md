@@ -404,3 +404,24 @@ M=M+1
 AD=M-1
 M=1
 M=M+1
+
+
+
+
+
+Question 231 pts
+Category: VM
+
+Which of the following are segments in the Hack Virtual Machine?
+
+Group of answer choices
+
+variable
+
+constant
+
+field
+
+argument
+
+static
