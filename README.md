@@ -234,3 +234,42 @@ Nothing, there is a syntax error and the code doesn't assemble.
 It reads the keyboard code at the time of the first D=M command and subtracts 48 from it and puts the result in "num"
 
 Nothing, there is no way that this code is able to read the keyboard unless the user is able to press the number '48' which doesn't exist on the keyboard. If it could work it would put the value -48 in "num".
+
+
+Question 151 pts
+Category: Assembler Symbol Tables
+
+Consider the following Hack assembly code:
+
+       @R0
+       D=M
+       @END
+       D;JLE
+       @counter
+       M=D
+       @x
+       M=D
+(LOOP)
+       D=D+A
+       @LOOP
+       D;JGT
+(END)
+       @END
+       0;JMP
+Fill in the appropriate symbol table entries below as they would be after the assembler's first pass.
+
+Your answer should be a positive integer or -
+Answer - for predefined symbols or other symbols that should not be present in the symbol table following the first pass.
+
+R0	
+D	
+M	
+END	
+JLE	
+counter	
+x	
+LOOP	
+A	
+JGT	
+JMP	
+
