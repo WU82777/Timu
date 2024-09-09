@@ -254,14 +254,16 @@ Fill in the appropriate symbol table entries below as they would be after the as
 Your answer should be a positive integer or -
 Answer - for predefined symbols or other symbols that should not be present in the symbol table following the first pass.
 
-R0	
-D	
+Answer:
+
+R0	   0
+D	   
 M	
-END	
+END	  3
 JLE	
-counter	
-x	
-LOOP	
+counter	  4
+x	    5
+LOOP	    6
 A	
 JGT	
 JMP	
@@ -276,10 +278,7 @@ Which of the following fragments of Hack assembly language would implement the f
 push constant 0
 Group of answer choices
 
-A=0
-M=M+1
-AD=M-1
-M=0
+answer:
 
 @SP
 A=M
@@ -295,13 +294,7 @@ M=D
 @SP
 AM=M+1
 
-@0
-D=A
-@SP
-M=M+1
-A=M
-M=D
-@SP
+
 
 @SP
 M=M+1
@@ -309,12 +302,8 @@ A=M
 M=0
 @SP
 
-@0
-D=A
-@SP
-M=D
-@SP
-M=M+1
+
+
 
 
 
