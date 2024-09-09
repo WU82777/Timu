@@ -80,3 +80,33 @@ Group of answer choices
 0,0,1,0,1,0,0,0
 
 ?,0,1,0,1,0,0,1
+
+Question 71 pts
+Category: Circuit HDL
+
+Select the lines of HDL code shown below that will implement a 1-bit register that is wired as shown in this diagram:
+![image](https://github.com/user-attachments/assets/56f7d840-d9bb-4c4f-a354-a33383a5b492)
+
+
+Chip Bit
+{
+        IN in, load ;
+        OUT out ;
+
+        PARTS:
+        // select the lines of HDL code that should go here ...
+}
+Group of answer choices
+
+Mux(a=tomux,b=in,sel=load,out=todff) ;
+
+Mux(a=in,b=tomux,sel=load,out=todff) ;
+
+DFF(in=todff,out=out) ;
+
+DFF(in=out,out=a,out=out) ;
+
+DFF(in=todff,out=tomux,out=out) ;
+
+Mux(a=out,b=in,sel=load,out=todff) ;
+
