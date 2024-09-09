@@ -25,3 +25,27 @@ Question 41 pts
 Category: Unsigned Minimums
 
 What is the decimal value of the smallest number that can be represented by an 8-bit unsigned binary number? Your answer must start with an initial sign, + or -. The rest of your answer must only contain decimal digits.
+
+Question 51 pts
+Category: ALU
+
+The following diagram shows the interface to the Hack ALU and the effect of the six control inputs zx, nx, zy, ny, f and no.
+![image](https://github.com/user-attachments/assets/eef67170-e51d-4815-a3c8-03be82cca3a2)
+Notes:
+
+The values of x1, x2, y1, y2, fout and out must be expressed as true, false or as simplified boolean expressions.
+Boolean expressions may include a single x, a single y and the operators &, | and !.
+The values of zr and ng must be expressed as true or false.
+Your answers must not include any spaces.
+What are the values x1, x2, y1, y2, fout and out when the ALU control inputs have the following values?
+
+if zx == 0 then x1 = 
+ , then if nx == 1 then x2 =  
+if zy == 0 then y1 = 
+ , then if ny == 1 then y2 =  
+if f == 0 then fout = 
+if no == 1 then out = 
+What values would be output on the zr and ng wires if the values of x and y are as follows?
+
+if x == 2 and y == 4 then zr = 
+if x == 57 and y == -32768 then ng = 
