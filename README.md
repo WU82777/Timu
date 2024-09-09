@@ -15,3 +15,13 @@ Question 21 pts
 Category: Most Negative 8-bit
 
 What is the decimal value of the most negative number that can be represented by an 8-bit two's complement binary number? Your answer must start with a - sign. The rest of your answer must only contain decimal digits.
+
+Question 31 pts
+Category: 4-bit Twos Complement -5 + -5
+
+Assuming that all numbers are represented in 4-bit two's complement binary, what is the decimal value of the result of adding -5 and -5? Your answer must start with an initial sign, + or -. The rest of your answer must only contain decimal digits.
+
+Question 41 pts
+Category: Unsigned Minimums
+
+What is the decimal value of the smallest number that can be represented by an 8-bit unsigned binary number? Your answer must start with an initial sign, + or -. The rest of your answer must only contain decimal digits.
