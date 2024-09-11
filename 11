@@ -40,29 +40,6 @@ Question at position 3
  
 Question at position 3 
 
-What is the tightest complexity that describes the following code fragment?
-
- 
-
-int sum = 0;
-
-for (int i=0; i < n; i++) {
-
-      for (int j=0; j < n; j++) {
-
-            if(i == j) {
-
-                  for (int k=0; k < n; k++) {
-
-                        sum++;
-
-                 } 
-
-            }
-
-      }
-
-}
 
 What is the tightest complexity that describes the following code fragment?
 
@@ -95,6 +72,8 @@ O(log n)
 O (n)
 
 O(n log n)
+
+
 Question at position 4
 4
  
@@ -122,25 +101,6 @@ i; j++) {
 
 }
 
-What is the tightest complexity that describes the following code fragment?
-
- 
-
-int sum = 0;
-
-for (int i=0; i < n; i++) {
-
-      for (int j=0; j < i
-i
-
-i; j++) {
-
-           sum++;
-
-      }
-
-}
-
 O(n3)
 
 O(n)
@@ -148,15 +108,15 @@ O(n)
 O(n4)
 
 O(n2)
+
+
+
 Question at position 5
 5
  
 5 points 
  
  
-Question at position 5 
-
- Which statements are correct?  (Multiple answers)
 
  Which statements are correct?  (Multiple answers)
 
