@@ -140,9 +140,9 @@ Question at position 6
 
 
 Order the following formulas from slowest (1) to fastest (8) growth rate.
-Prompt 1n^n
+n^n
 Answer for prompt 1 n^n
-Prompt 2n^2*log(n^3)
+n^2*log(n^3)
 Answer for prompt 2 n^2*log(n^3)
 Prompt 3n!
 Answer for prompt 3 n!
