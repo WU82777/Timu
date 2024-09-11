@@ -2,23 +2,6 @@
  
 Question at position 2 
 
-What is the tightest complexity that describes the following code fragment?
-
- 
-
-int sum1 = 0;
-
-int sum2 = 0;
-
-for (int i = 1; i < n; i = i
-
-4) {
-
-                sum1++;
-
-                sum2++;                
-
- }
 
  
 
