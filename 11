@@ -128,22 +128,16 @@ Big O and Little o are upper bound notations.
 
 siata is a tight bound notation.
 
-If f(n)=
-
-(g(n)), then g(n)=O(f(n)).
+If f(n)= omega (g(n)), then g(n)=O(f(n)).
 
 If f(n)=o(g(n)) and g(n)=o(h(n)), then f(n)=o(h(n)).
 
-n3=
+n^3= omega(n^4)
 
-(n4)
+
 Question at position 6
 6
- 
-5 points 
- 
- 
-Question at position 6 
+
 
 Order the following formulas from slowest (1) to fastest (8) growth rate.
 Prompt 1n^n
