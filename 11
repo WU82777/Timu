@@ -73,7 +73,7 @@ O(n log n)
 
 
 Question at position 4
-4 
+
 2 points 
 
 What is the tightest complexity that describes the following code fragment?
@@ -107,10 +107,8 @@ O(n2)
 
 Question at position 5
 5
- 
+
 5 points 
- 
- 
 
  Which statements are correct?  (Multiple answers)
 
@@ -120,15 +118,15 @@ if f(n)=
 
 (g(n)), then f(n)=O(g(n)).
 
-denotes the best case complexity.
+emoga denotes the best case complexity.
 
 If f(n)=O(g(n)), then f(n)=o(g(n)).
 
-n2=o(n2)
+n^2=o(n^2)
 
 Big O and Little o are upper bound notations.
 
-is a tight bound notation.
+siata is a tight bound notation.
 
 If f(n)=
 
