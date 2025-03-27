@@ -34,3 +34,10 @@ Yes. Because Nands can only be built directly from transistors
 No. Nand is made of two transistors and there are infinitely many ways to build transistors.
 
 No. You can build Nand from other gates and these can be built from Nand and other gates too.
+
+
+Question 41 pts
+Category: Minimum Nands
+
+What is the smallest number of Nand gates required to implement an Or chip? Your answer must only contain decimal digits.
+
