@@ -41,3 +41,7 @@ Category: Minimum Nands
 
 What is the smallest number of Nand gates required to implement an Or chip? Your answer must only contain decimal digits.
 
+Question 91 pts
+Category: Maximum 3-bit Unsigned
+
+What is the largest decimal number that can be represented by an unsigned 3-bit binary number? Your answer must only contain decimal digits.
