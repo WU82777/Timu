@@ -46,7 +46,12 @@ Category: Maximum 3-bit Unsigned
 
 What is the largest decimal number that can be represented by an unsigned 3-bit binary number? Your answer must only contain decimal digits.
 
+Question 241 pts
+Category: Bitwise Arithmetic
 
+C++ has the following bitwise operators, & (and), | (or) and ~(not).
+
+What is the decimal value of the expression, 19 & ~(8 - 1), if all numbers are represented in 8-bit two's complement.  Your answer must start with an initial sign, + or -. The rest of your answer must only contain decimal digits.
 
 Question 251 pts
 Category: Bitwise Arithmetic
