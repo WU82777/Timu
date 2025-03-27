@@ -16,3 +16,21 @@ Because most of the other instructions would conflict with the 18 instructions t
 To implement all 64 instructions would greatly increase the complexity of the processor and for no benefit since we can do almost everything we want with the 18 instructions we have.
 
 The other instructions are mostly slower than the 18 very fast instructions. We don't implement these other instructions because we don't want to slow down the machine. 
+
+
+Question 21 pts
+Category: Combinational Logic
+
+Choose the best answer below. 
+
+Is there a limit on the number of ways to express a Nand chip in terms of other chips?
+
+Group of answer choices
+
+Yes. Because there is a limited variety of other gates.
+
+Yes. Because Nands can only be built directly from transistors
+
+No. Nand is made of two transistors and there are infinitely many ways to build transistors.
+
+No. You can build Nand from other gates and these can be built from Nand and other gates too.
