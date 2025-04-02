@@ -828,3 +828,16 @@ It cannot be determined from the given information
 Both models have the same performance
 
 Model A is better because it has a higher RMSE score.
+
+
+Question 154 pts
+q15.png
+Group of answer choices
+
+Generalizing well
+
+Over-fitting
+
+Well-fitted
+
+Under-fitting
