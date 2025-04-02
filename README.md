@@ -692,3 +692,16 @@ The 'coerce' parameter specifies that non-numeric values will not be converted a
 </body>
 </html>
 
+Question 44 pts
+q4.png
+![image](https://github.com/user-attachments/assets/a8a8b3af-a6fa-47a4-90be-9055195370e7)
+
+Group of answer choices
+
+The distribution is concentrated on the right
+
+The distribution is symmetric.
+
+The distribution is concentrated on the left
+
+The distribution cannot be determined from the information given
