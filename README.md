@@ -757,3 +757,15 @@ The 'coerce' parameter specifies that any non-numeric values should be converted
 The 'coerce' parameter specifies that missing values should be converted to NaN
 
 The 'coerce' parameter specifies that non-numeric values will not be converted and will raise an error
+
+
+Question 94 pts
+q9.png![Uploading image.png…]()
+
+Group of answer choices
+
+No correlation
+
+Positive correlation
+
+Negative correlation
