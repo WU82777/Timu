@@ -786,7 +786,7 @@ Replaces negative values with the mean of the values in the same column
 
 
 Question 114 pts
-q11.png![Uploading image.png…]()
+q11.png![image](https://github.com/user-attachments/assets/0c3ee6cd-e7f4-4456-865f-37d11c50fb8f)
 
 Group of answer choices
 
@@ -801,7 +801,8 @@ It fills in missing values with the mean of the feature column.
 Question 124 pts
 Consider the following scatter plot:
 
-scatter_plot.png
+scatter_plot.png![Uploading image.png…]()
+
 
 Consider the scatter plot above of Feature 1 vs Feature 2. What is the correlation between Feature 1 and Feature 2?
 
