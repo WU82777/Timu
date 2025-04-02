@@ -3,6 +3,7 @@ hello
 Question 14 pts
 Q1.png
 Group of answer choices
+![image](https://github.com/user-attachments/assets/b0cd15fa-eace-46b0-a59c-db27932c4edd)
 
 .describe()
 
