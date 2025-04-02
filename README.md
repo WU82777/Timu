@@ -668,7 +668,20 @@ The distribution is concentrated on the left, and there are outliers to the righ
 </script>
 <script src="https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_70360000000000001/attachments/15645136/UofA_2024_07_30.js" defer="defer"></script>
   <script src="https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_70360000000000001/attachments/11926264/UofA_canvas_ECMS_2.js" defer="defer"></script>
+Question 84 pts
+q8.png
 
+ 
+
+Group of answer choices
+
+The 'coerce' parameter specifies that missing values should be filled with the median value of the column
+
+The 'coerce' parameter specifies that any non-numeric values should be converted to zero
+
+The 'coerce' parameter specifies that missing values should be converted to NaN
+
+The 'coerce' parameter specifies that non-numeric values will not be converted and will raise an error
 
 </div> <!-- #application -->
 </body>
