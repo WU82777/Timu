@@ -817,7 +817,7 @@ Weak positive correlation
 Strong negative correlation
 
 Question 134 pts
-q13.png![Uploading image.png…]()
+q13.png![image](https://github.com/user-attachments/assets/329bd3e2-c4fc-4f00-bf7c-3fe791d1a3b0)
 
 Group of answer choices
 
@@ -831,7 +831,9 @@ Model A is better because it has a higher RMSE score.
 
 
 Question 154 pts
-q15.png
+q15.png![image](https://github.com/user-attachments/assets/db1af7c8-b163-4506-a2d0-1c86664a0ac3)  ![Uploading image.png…]()
+
+
 Group of answer choices
 
 Generalizing well
