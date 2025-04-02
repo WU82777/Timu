@@ -760,7 +760,7 @@ The 'coerce' parameter specifies that non-numeric values will not be converted a
 
 
 Question 94 pts
-q9.png![Uploading image.png…]()
+q9.png![image](https://github.com/user-attachments/assets/5c54a2bb-96bc-4930-8ac5-793f6a48ff7b)
 
 Group of answer choices
 
@@ -769,3 +769,17 @@ No correlation
 Positive correlation
 
 Negative correlation
+
+
+Question 104 pts
+q10.png
+Group of answer choices
+![Uploading image.png…]()
+
+Replaces missing values with the mean of the non-missing values in the same column
+
+Replaces positive values with the mean of the values in the same column.
+
+Replaces all values in each column with their mean.
+
+Replaces negative values with the mean of the values in the same column
