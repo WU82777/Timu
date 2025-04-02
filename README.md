@@ -24,3 +24,15 @@ Group of answer choices
 .head()
 
 .info()
+
+Question 34 pts
+q3.png
+Group of answer choices
+
+The distribution is concentrated on the right, and there are outliers to the right.
+
+The distribution is concentrated on the left, and there are no outliers.
+
+The distribution is evenly spread out, and there are no outliers.
+
+The distribution is concentrated on the left, and there are outliers to the right.
