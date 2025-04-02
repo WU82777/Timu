@@ -729,7 +729,8 @@ pd.get_dummies(df['Color'], prefix='Color')
 
 
 Question 74 pts
-q7.png
+q7.png![image](https://github.com/user-attachments/assets/e6000043-df35-4e49-995e-bfa9ac05e97c)
+
 Group of answer choices
 
 df['Age'] = df['Age'].astype(int)
