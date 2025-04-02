@@ -705,3 +705,8 @@ The distribution is symmetric.
 The distribution is concentrated on the left
 
 The distribution cannot be determined from the information given
+
+
+
+q5
+![image](https://github.com/user-attachments/assets/6d22da46-7abc-40d3-a6f4-c9967f2cdfef)
