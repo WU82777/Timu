@@ -774,7 +774,7 @@ Negative correlation
 Question 104 pts
 q10.png
 Group of answer choices
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/15471c50-9211-4817-9902-c96146165aeb)
 
 Replaces missing values with the mean of the non-missing values in the same column
 
@@ -783,3 +783,17 @@ Replaces positive values with the mean of the values in the same column.
 Replaces all values in each column with their mean.
 
 Replaces negative values with the mean of the values in the same column
+
+
+Question 114 pts
+q11.png![Uploading image.png…]()
+
+Group of answer choices
+
+It standardizes the data by subtracting the mean and dividing by the standard deviation.
+
+It transforms categorical variables into numerical values.
+
+It standardizes the data by scaling it to a range between 0 and 1.
+
+It fills in missing values with the mean of the feature column.
