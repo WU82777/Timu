@@ -801,7 +801,7 @@ It fills in missing values with the mean of the feature column.
 Question 124 pts
 Consider the following scatter plot:
 
-scatter_plot.png![Uploading image.png…]()
+scatter_plot.png![image](https://github.com/user-attachments/assets/c98e7412-eaec-418c-9266-eae178028db7)
 
 
 Consider the scatter plot above of Feature 1 vs Feature 2. What is the correlation between Feature 1 and Feature 2?
@@ -817,7 +817,8 @@ Weak positive correlation
 Strong negative correlation
 
 Question 134 pts
-q13.png
+q13.png![Uploading image.png…]()
+
 Group of answer choices
 
 Model B is better because it has a lower RMSE.
