@@ -816,3 +816,14 @@ Weak positive correlation
 
 Strong negative correlation
 
+Question 134 pts
+q13.png
+Group of answer choices
+
+Model B is better because it has a lower RMSE.
+
+It cannot be determined from the given information
+
+Both models have the same performance
+
+Model A is better because it has a higher RMSE score.
