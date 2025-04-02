@@ -710,3 +710,18 @@ The distribution cannot be determined from the information given
 
 q5
 ![image](https://github.com/user-attachments/assets/6d22da46-7abc-40d3-a6f4-c9967f2cdfef)
+
+
+
+Question 64 pts
+q6.png![image](https://github.com/user-attachments/assets/f1c846ec-309c-47bc-bdab-fe572bb3120f)
+
+Group of answer choices
+
+df['Color_R'] = (df['Color'] == 'Red').astype(int)
+
+df['Color_Green'] = np.where(df['Color'] == 'Green', 1, 0)
+
+df['Color'] = pd.Categorical(df['Color'])
+
+pd.get_dummies(df['Color'], prefix='Color')
