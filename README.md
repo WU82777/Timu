@@ -725,3 +725,17 @@ df['Color_Green'] = np.where(df['Color'] == 'Green', 1, 0)
 df['Color'] = pd.Categorical(df['Color'])
 
 pd.get_dummies(df['Color'], prefix='Color')
+
+
+
+Question 74 pts
+q7.png
+Group of answer choices
+
+df['Age'] = df['Age'].astype(int)
+
+df['Age'] = df['Age'].apply(int)
+
+df['Age'] = pd.to_numeric(df['Age'])
+
+All of the options
