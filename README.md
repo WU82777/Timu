@@ -740,3 +740,20 @@ df['Age'] = df['Age'].apply(int)
 df['Age'] = pd.to_numeric(df['Age'])
 
 All of the options
+
+
+Question 84 pts
+q8.png![image](https://github.com/user-attachments/assets/0cec7391-4f6c-4a2d-a9e4-8d5ab02dc674)
+
+
+ 
+
+Group of answer choices
+
+The 'coerce' parameter specifies that missing values should be filled with the median value of the column
+
+The 'coerce' parameter specifies that any non-numeric values should be converted to zero
+
+The 'coerce' parameter specifies that missing values should be converted to NaN
+
+The 'coerce' parameter specifies that non-numeric values will not be converted and will raise an error
