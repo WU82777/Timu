@@ -16,6 +16,8 @@ Group of answer choices
 
 Question 24 pts
 q2.png
+![image](https://github.com/user-attachments/assets/7d75412e-4438-42b5-8d0a-a69d7ffbfdaf)
+
 Group of answer choices
 
 .value_counts()
@@ -28,6 +30,8 @@ Group of answer choices
 
 Question 34 pts
 q3.png
+![image](https://github.com/user-attachments/assets/fbfd17a7-78ad-46b7-a0af-70e781302fe6)
+
 Group of answer choices
 
 The distribution is concentrated on the right, and there are outliers to the right.
