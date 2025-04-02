@@ -797,3 +797,21 @@ It transforms categorical variables into numerical values.
 It standardizes the data by scaling it to a range between 0 and 1.
 
 It fills in missing values with the mean of the feature column.
+
+Question 124 pts
+Consider the following scatter plot:
+
+scatter_plot.png
+
+Consider the scatter plot above of Feature 1 vs Feature 2. What is the correlation between Feature 1 and Feature 2?
+
+Group of answer choices
+
+Strong positive correlation
+
+Weak negative correlation
+
+Weak positive correlation
+
+Strong negative correlation
+
