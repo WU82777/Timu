@@ -283,3 +283,24 @@ Fourth Instruction
 
 [ Choose ]
 Fifth Instruction
+
+
+
+Question 191 pts
+Category: VM to Assembler Push 0
+
+Select exactly 4 lines of Hack Assembly Language, in the order they must be executed, that will implement the Hack Virtual Machine command:
+
+push constant 0
+
+Group of answer choices
+First Instruction
+
+[ Choose ]
+Second Instruction
+
+[ Choose ]
+Third Instruction
+
+[ Choose ]
+Fourth Instruction
