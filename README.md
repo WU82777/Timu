@@ -54,3 +54,34 @@ These wires are the rightmost 15 wires of an A-instruction and they are used to 
 These wires are c1 through to c6 wires of the instruction when we have a C-instruction (when we have an A instruction we either ignore the output of the ALU or "and" the input of these wires with one of the bits indicating that this is a C instruction). Their purpose is to determine the operations we perform on the ALU.
 
 The wires are the right most bits of the C-instruction (when we have an A instruction we either ignore the output of the ALU or "and" the input of these wires with one of the bits indicating that this is a C instruction) these bits determine if or how we jump. These bits feed into the logic of the ALU and make it produce the relevant bits for updating the PC to determine what instructions to execute next.
+
+
+
+Question 101 pts
+Category: Assembler
+
+What does the following Hack assembler code do?
+
+        @pix
+        M=1
+        D=M
+        M=M+D
+        M=M+1
+        D=M
+        M=M+D
+        M=M+1
+        D=M
+        @SCREEN
+        M=D
+ (END)
+        @END
+        0;JMP
+Group of answer choices
+
+It draws one pixel black.
+
+It draws the topmost leftmost three pixels on the screen black.
+
+It draws the following pixels black, pixel 0, pixel 16 and pixel 32.
+
+It draws no pixels black because of overflow.
