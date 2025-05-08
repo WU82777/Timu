@@ -449,3 +449,24 @@ Group of answer choices
 5
 
 [ Choose ]
+
+
+
+
+Question 61 pts
+Category: Sequential RAM
+![image](https://github.com/user-attachments/assets/fb476ecf-7547-4fca-a5b4-2a08c0399868)
+
+What is the capacity of the following memory in terms of bytes (B) or bits (b)?
+
+                RAM_Block.png
+
+Group of answer choices
+
+128 KB
+
+256 Mb
+
+1 MB
+
+131 Kb
