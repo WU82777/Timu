@@ -131,3 +131,26 @@ A=D+M;JLT
 
 [ Choose ]
 @10
+
+
+
+Question 131 pts
+Category: Assembler Symbols
+
+What three kinds of symbols can appear in a Hack Assembly Language program?
+
+Group of answer choices
+
+labels
+
+constants
+
+virtual registers
+
+variables
+
+predefined
+
+VM control pointers
+
+I/O pointers
