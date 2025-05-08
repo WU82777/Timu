@@ -32,3 +32,25 @@ B
 D
 
 C
+
+
+
+Question 81 pts
+Category: CPU Wiring
+![image](https://github.com/user-attachments/assets/4a500961-6105-473c-b27f-211b7814ef14)
+
+Look at the following (incomplete) diagram of the Hack CPU. Look at the wire (actually, this is a bundle of wires) pointed to by the large red arrow.
+
+Where does the signal on these wires come from and what action does this signal trigger?
+
+CPU-3.png
+
+Group of answer choices
+
+These wires are c1 through to c6 wires of the instruction when we have a C-instruction (when we have an A instruction we either ignore the output of the ALU or "and" the input of these wires with one of the bits indicating that this is a C instruction). Their purpose is to determine where the result of the ALU goes. 
+
+These wires are the rightmost 15 wires of an A-instruction and they are used to put values into the A-register from the ALU. If we have a C-instruction, the circuit is wired such that these wires are ignored.
+
+These wires are c1 through to c6 wires of the instruction when we have a C-instruction (when we have an A instruction we either ignore the output of the ALU or "and" the input of these wires with one of the bits indicating that this is a C instruction). Their purpose is to determine the operations we perform on the ALU.
+
+The wires are the right most bits of the C-instruction (when we have an A instruction we either ignore the output of the ALU or "and" the input of these wires with one of the bits indicating that this is a C instruction) these bits determine if or how we jump. These bits feed into the logic of the ALU and make it produce the relevant bits for updating the PC to determine what instructions to execute next.
