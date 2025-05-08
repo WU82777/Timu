@@ -260,3 +260,26 @@ M=M+1
 A=M
 M=2
 @SP
+
+
+Question 181 pts
+Category: VM to Assembler Pop Temp 3
+
+Select exactly 5 lines of Hack Assembly Language, in the order they must be executed, that will implement the Hack Virtual Machine command:
+
+pop temp 3
+
+Group of answer choices
+First Instruction
+
+[ Choose ]
+Second Instruction
+
+[ Choose ]
+Third Instruction
+
+[ Choose ]
+Fourth Instruction
+
+[ Choose ]
+Fifth Instruction
