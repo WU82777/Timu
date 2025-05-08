@@ -107,3 +107,27 @@ It sets RAM[93] to be D + 1
 It inverts all the bits in RAM[93]
 
 It sets RAM[93] to be 0
+
+
+Question 121 pts
+Category: Assembly to Hack
+
+Match the following Hack Assembly Language instructions to their 16-bit binary representation.
+
+Group of answer choices
+@0
+
+[ Choose ]
+0
+
+[ Choose ]
+0;JMP
+
+[ Choose ]
+A=M
+
+[ Choose ]
+A=D+M;JLT
+
+[ Choose ]
+@10
