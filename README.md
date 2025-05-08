@@ -205,3 +205,58 @@ M=M+1
 A=M
 M=D
 @SP
+
+
+
+Question 171 pts
+Category: VM to Assembler push constant 2
+
+Which of the following fragments of Hack assembly language would implement the following virtual machine command? If there is more than one correct answer, select all of them.
+
+push constant 2
+Group of answer choices
+
+@2
+D=A
+@SP
+A=M
+M=D
+@SP
+AM=M+1
+ 
+
+
+@SP
+A=M
+M=1
+M=M+1
+@SP
+M=M+1
+ 
+
+
+@2
+D=A
+@SP
+M=M+1
+A=M
+M=D
+
+A=0
+M=M+1
+AD=M-1
+M=1
+M=M+1
+
+@0
+D=A
+@SP
+M=D
+@SP
+M=M+1
+
+@SP
+M=M+1
+A=M
+M=2
+@SP
