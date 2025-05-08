@@ -85,3 +85,25 @@ It draws the topmost leftmost three pixels on the screen black.
 It draws the following pixels black, pixel 0, pixel 16 and pixel 32.
 
 It draws no pixels black because of overflow.
+
+
+
+Question 111 pts
+Category: Assembler
+
+What does the following Hack assembler code always do to the current value in RAM location 93?
+
+        @93
+        D=!M
+        D=D+1
+Group of answer choices
+
+It sets RAM[93] to be -RAM[93]
+
+It does not change RAM[93]
+
+It sets RAM[93] to be D + 1
+
+It inverts all the bits in RAM[93]
+
+It sets RAM[93] to be 0
