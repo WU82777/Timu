@@ -331,6 +331,23 @@ Select exactly 3 lines of Hack Assembly Language, in the order they must be exec
 
 not
 
+
+Question 221 pts
+Category: VM
+
+Which of the following are segments in the Hack Virtual Machine?
+
+Group of answer choices
+
+field
+
+argument
+
+constant
+
+variable
+
+static
 Group of answer choices
 First Instruction
 
