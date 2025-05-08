@@ -361,3 +361,91 @@ Fourth Instruction
 
 [ Choose ]
 Fifth Instruction
+
+
+Question 231 pts
+Category: VM
+
+Which of the following operators are not provided by the Hack Virtual Machine?
+
+Group of answer choices
+
+gt
+
+divide
+
+times
+
+add
+
+le
+
+neg
+
+xor
+
+
+
+Question 241 pts
+Category: VM Expressions a*(b+c)
+
+Select 5 lines of Hack VM Language, in the order they must be executed, that will implement the Jack expression:
+
+a*(b+c)
+
+Notes:
+
+The expression must be evaluated left to right.
+The variables a, b and c are in the local segment at offsets 4, 5 and 6.
+Group of answer choices
+1
+
+[ Choose ]
+2
+
+[ Choose ]
+3
+
+[ Choose ]
+4
+
+[ Choose ]
+5
+
+[ Choose ]
+
+sub
+
+lt
+
+ge
+
+
+
+Question 251 pts
+Category: VM Expressions ~a & ~b
+
+Select 5 lines of Hack VM Language, in the order they must be executed, that will implement the Jack expression:
+
+~a & ~b
+
+Notes:
+
+The expression must be evaluated left to right.
+The variables a and b are in the local segment at offsets 4 and 5.
+Group of answer choices
+1
+
+[ Choose ]
+2
+
+[ Choose ]
+3
+
+[ Choose ]
+4
+
+[ Choose ]
+5
+
+[ Choose ]
